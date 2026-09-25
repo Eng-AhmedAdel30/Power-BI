@@ -2,7 +2,8 @@
 
 Power BI · Kick_starter.pbix · Dataset: 2016–2018
 
-Kickstarter Power BI Dashboard
+
+![Dashboard](Kick_starter.png)
 
 ## 📋 Summary
 
@@ -10,21 +11,13 @@ This Power BI dashboard provides a high-level analytical view of **379K Kickstar
 
 ## 📊 Key Metrics
 
-73M
+73M --> No. of Backers
 
-No. of Backers
+379K --> No. of Projects
 
-379K
+34bn --> Total Goal
 
-No. of Projects
-
-34bn
-
-Total Goal
-
-6.48bn
-
-Total Pledged
+6.48bn --> Total Pledged
 
 ## 💡 Highlights
 
