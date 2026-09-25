@@ -2,7 +2,9 @@
 
 Power BI · Lab3.pbix · Data range: 2011–2014 · Pages: Overview & Tooltip
 
-Sales Power BI Dashboard
+Sales Power BI Dashboard 
+
+![Dashboard](sales_dashboard.png)
 
 ## 📋 Summary
 
@@ -10,29 +12,17 @@ This Power BI dashboard delivers an executive-level view of **1K sales orders** 
 
 ## 📊 Key Metrics
 
-1K
+1K --> Total Orders
 
-Total Orders
+24K --> Line Items
 
-24K
+$30.1M --> Total Subtotal
 
-Line Items
+$916K --> Total Freight
 
-$30.1M
+$2.9M --> Total Tax
 
-Total Subtotal
-
-$916K
-
-Total Freight
-
-$2.9M
-
-Total Tax
-
-$33.9M
-
-Total Due
+$33.9M --> Total Due
 
 ## 💡 Highlights
 
